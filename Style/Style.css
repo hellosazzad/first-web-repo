@@ -57,3 +57,236 @@
     margin-top:70px;
     margin-bottom: auto;
 }
+
+
+/* main sec */
+.featured{
+    text-align: center;
+}
+.card{
+    border: #151414;
+    border-radius:250px 250px 0px 0px;
+    background: #da72fa;
+    background-image: url("../FlowerAsset/pngwing\ 6.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: cover;
+    width: 300px;
+    height: 444px;
+    
+     margin: 100px;
+     margin-left: 350px;
+}
+.card-2{
+    border: #151414;
+    border-radius:250px 250px 0px 0px;
+    background: #da72fa;
+    background-image: url("../FlowerAsset/pngwing\ 5.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: cover;
+    width: 300px;
+    height: 444px;
+    margin: 100px;
+}
+.card-3{
+    border: #151414;
+    border-radius:250px 250px 0px 0px;
+    background: #da72fa;
+    background-image: url("../FlowerAsset/pngwing\ 7.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: cover;
+    width: 300px;
+    height: 444px;
+    margin: 100px;
+}
+.card-flex{
+    display: flex;
+    justify-content: space-between;
+    
+}
+/* instagram */
+.insta{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.insta-card-1{
+    border: #151414;
+    background: #da72fa;
+    background-image: url("../FlowerAsset/Flower\ 01.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: cover;
+    width: 300px;
+    height: 444px;
+    
+     margin: 20px;
+     margin-left: 10px;
+}
+.insta-card-2{
+    border: #151414;
+    background: #da72fa;
+    background-image: url("../FlowerAsset/Rectangle\ 4.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: cover;
+    width: 300px;
+    height: 444px;
+    
+     margin: 20px;
+     margin-left: 10px;
+}
+.insta-card-3{
+    border: #151414;
+    background: #da72fa;
+    background-image: url("../FlowerAsset/pngwing\ 5.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: cover;
+    width: 300px;
+    height: 444px;
+    
+     margin: 20px;
+     margin-left: 10px;
+}
+.insta-card-4{
+    border: #151414;
+    background: #da72fa;
+    background-image: url("../FlowerAsset/pngwing\ 6.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: cover;
+    width: 300px;
+    height: 444px;
+     margin: 20px;
+     margin-left: 10px;
+}
+/* cell section */
+.bg-sell{
+     background:rgb(240, 211, 245);
+        height: 600px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+}
+
+.sell-image{
+    width: 330px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.title-s {
+    font-weight: 400px;
+    font-size: 45px;
+}
+.text-size-f{
+    font-weight: 400px;
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+.style-sell-div{
+    align-items: right;
+    width: 760px;
+    height: 444px;
+    color: rgb(45, 12, 71);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+}
+/* input banner */
+.input-bg {
+    background-image: url("../FlowerAsset/Rectangle\ 9.png");
+    background-size: cover;
+    background-position: center;
+    width: 1320px;
+    height: 400px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 60px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    
+  }
+
+  .input-field {
+    width: 300px;
+    padding: 20px;
+    font-size: 18px;
+  }
+  .sub-button-i {
+    height: 64px;
+    background-color: rgb(193, 112, 209);
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    margin-left: 3px;
+    
+}
+
+/* flower shop */
+.some-fact{
+    margin: 100px;
+    margin: 10px 100px 50px 100px;
+}
+
+.fact-dis{
+font-weight: 400;
+font-size: 16px;
+color: #727272;
+margin-right: 800px;
+margin-bottom: 50px;
+
+}
+.fact-head{
+font-weight: 700;
+font-size: 45px;
+color: #1b056b;
+margin-bottom: 24px;
+}
+.fact-dis{
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+.icon-bg{
+ width: 241.83px;
+height: 200.83px;
+border: 1px solid #FF900E;
+border-radius: 8px;
+text-align: center;
+justify-content: center;
+padding-top: 45px;
+background-color: #ddbae4;
+
+
+}
+.icon-img{
+    width:150px ;
+    height: 70px;
+}
+.icon-img-r{
+    width:150px ;
+    height: 70px;
+}
+.icon-bg:hover{
+    transform: rotate(65deg);
+}
+.icon-title, .icon-dis{
+    font-weight: 600;
+    color: #020101;
+
+}
+.icon-info{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
